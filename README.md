@@ -322,6 +322,3 @@ In accordance with assignment guidelines:
 
 ---
 
-## 22. Demo Instructions
-
-Follow the complete 3–5 minute presentation script in [docs/demo_script.md](file:///c:/Users/kedia/OneDrive/Desktop/CentrAlign%20AI/docs/demo_script.md) for live technical interview walkthroughs.
